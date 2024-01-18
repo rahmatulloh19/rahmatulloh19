@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
 <h1 align="center">Hi 👋, I'm Rahmatulloh</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmatulloh19&show_icons=true&locale=en" alt="rahmatulloh19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatulloh19&" alt="rahmatulloh19" /></p>
+](https://komarev.com/ghpvc/?username=rahmatulloh19&label=Profile%20views&color=0e75b6&style=flat)https://komarev.com/ghpvc/?username=rahmatulloh19&label=Profile%20views&color=0e75b6&style=flat
