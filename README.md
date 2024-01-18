@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
 <h1 align="center">Hi 👋, I'm Rahmatulloh</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ec43abbe9922123ea93f9b92d778fd99f02c53c4726bd1d80bf083e4e229286/68747470733a2f2f7777772e686f72697a6f6e742e636f6d2e68722f706f73616f2f66726f6e74656e642d646576656c6f7065722e676966"
