@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahmatulloh</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
+<a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="[https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif](https://camo.githubusercontent.com/5ec43abbe9922123ea93f9b92d778fd99f02c53c4726bd1d80bf083e4e229286/68747470733a2f2f7777772e686f72697a6f6e742e636f6d2e68722f706f73616f2f66726f6e74656e642d646576656c6f7065722e676966)" width="280" height="auto" /></a>
+
 <p align="left"> <img src="[[https://komarev.com/ghpvc/?username=rahmatulloh19&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/5ec43abbe9922123ea93f9b92d778fd99f02c53c4726bd1d80bf083e4e229286/68747470733a2f2f7777772e686f72697a6f6e742e636f6d2e68722f706f73616f2f66726f6e74656e642d646576656c6f7065722e676966)](https://komarev.com/ghpvc/?username=rahmatulloh19&label=Profile%20views&color=0e75b6&style=flat)" alt="rahmatulloh19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmatulloh19" alt="rahmatulloh19" /></a> </p>
