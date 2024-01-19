@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <h1 align="center">Hi 👋, I'm Rahmatulloh</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
