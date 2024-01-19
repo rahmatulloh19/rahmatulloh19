@@ -111,6 +111,11 @@
 
 <p  align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmatulloh19&show_icons=true&locale=en&layout=compact" alt="rahmatulloh19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmatulloh19&show_icons=true&locale=en" alt="rahmatulloh19" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatulloh19&" alt="rahmatulloh19" />
+| AWS                                                   | Git                                           |
+| ----------------------------------------------------- | --------------------------------------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmatulloh19&show_icons=true&locale=en" alt="rahmatulloh19" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatulloh19&" alt="rahmatulloh19" /> |
+
+
+<p>&nbsp;
+  
 </p>
