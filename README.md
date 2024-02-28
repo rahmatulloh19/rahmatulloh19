@@ -107,9 +107,6 @@
 						height="40"
 					/>
 				</a>
-				
-			</p>
-
 
 
 | Stats                                                 | Info                                          |
