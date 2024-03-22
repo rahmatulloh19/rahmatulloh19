@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.cakeresume.com/s--fEiBJCBVLe5THKlF37Gqjw--/rahmatulloh-raxmonov](https://www.cakeresume.com/s--fEiBJCBVLe5THKlF37Gqjw--/rahmatulloh-raxmonov)
 
-- ⚡ Fun fact **I think I am young, intelligent, strong programmer with an aspirational character**
+- ⚡ Fun fact **I think I am a young, intelligent, strong programmer with an aspirational character**
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmatulloh19" alt="rahmatulloh19" /></a> </p>
 
