@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **raxmonovrahmatulloh@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TSkxCHay3T_P1U8my9yRl30Pzk--qd1u/view)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1TSkxCHay3T_P1U8my9yRl30Pzk--qd1u/view)
 
 - ⚡ Fun fact **I think I am a young, intelligent, strong programmer with an aspirational character**
 
