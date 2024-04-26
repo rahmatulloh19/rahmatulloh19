@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1TSkxCHay3T_P1U8my9yRl30Pzk--qd1u/view)
 
-- ⚡ Fun fact **I think I am a young, intelligent, strong programmer with an aspirational character**
+- ⚡ Fun fact **I think I am a young, intelligent, strong programmer with an aspirational character** 
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmatulloh19" alt="rahmatulloh19" /></a> </p>
 
