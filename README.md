@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [My Personal Web site](https://nineteen-uz.vercel.app/)
 
 - 🌱 I’m currently learning **React Native, TypeScript**
-
+ 
 - 👨‍💻 All of my projects are available at [https://nineteen-uz.vercel.app/](https://nineteen-uz.vercel.app/)
 
 - 💬 Ask me about **ReactJS, JavaScript**
