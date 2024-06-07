@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahmatulloh</h1>
+<h1 align="center">Hi 👋, I'm Rahmatulloh</h1> 
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <img align="right" alt="Coding" width="450" src="https://github.com/rahmatulloh19/rahmatulloh19/blob/main/readmeGif.gif">
